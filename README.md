@@ -1,6 +1,8 @@
 **1.** Para fazer um branch de um commit especifico
 
+```bash
 git checkout -b test-branch 859bba32efc812a1a69cd66b1fe3d5e9321fa493
+```
 
 **2.** Apos fazer as alterações fazer a adições de suas alterações e o commit
 
